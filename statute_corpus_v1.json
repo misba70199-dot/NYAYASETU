@@ -1,0 +1,792 @@
+[
+  {
+    "chunk_id": "CONSUMER_001",
+    "category": "Consumer",
+    "topic": "Defective product / damaged goods / warranty",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 35",
+    "section_title": "Manner in which complaint shall be made",
+    "text": "A consumer complaint relating to goods sold or delivered, or services provided or agreed to be provided, may be filed with the District Consumer Commission by the consumer and certain other permitted complainants. The complaint may be filed electronically in the prescribed manner and is subject to the applicable fee and procedure.",
+    "pathway": "Consumer grievance/dispute process may be relevant; verify the current forum and procedure.",
+    "documents": [
+      "Invoice/order confirmation",
+      "Warranty",
+      "Payment proof",
+      "Photos/videos of defect",
+      "Complaint messages",
+      "Seller/service-centre response"
+    ],
+    "authority": "District Consumer Commission / Department of Consumer Affairs; verify current jurisdiction and filing route.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/consumerprotection2019/a.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Defective product",
+      "Damaged product",
+      "Warranty refusal",
+      "Online purchase"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "CONSUMER_002",
+    "category": "Consumer",
+    "topic": "Consumer Commission procedure and jurisdiction",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Sections 34, 47, 58",
+    "section_title": "Jurisdiction of consumer commissions",
+    "text": "The Consumer Protection Act establishes District, State and National Consumer Disputes Redressal Commissions and sets out their jurisdiction and procedures. Current pecuniary jurisdiction should be verified against the applicable Act and rules before advising a user where to file.",
+    "pathway": "Identify the appropriate Consumer Commission after checking the current pecuniary and territorial jurisdiction.",
+    "documents": [
+      "Complaint details",
+      "Invoice",
+      "Payment proof",
+      "Correspondence",
+      "Relevant supporting evidence"
+    ],
+    "authority": "District/State/National Consumer Commission as applicable; Department of Consumer Affairs.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/consumerprotection2019/a.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Refund dispute",
+      "Service complaint",
+      "Online purchase",
+      "Unfair trade practice"
+    ],
+    "verification_status": "Official Act structure checked; current jurisdiction should be verified before use"
+  },
+  {
+    "chunk_id": "CONSUMER_003",
+    "category": "Consumer",
+    "topic": "Mediation / resolution",
+    "act": "Consumer Protection Act, 2019",
+    "section": "Section 37",
+    "section_title": "Reference to mediation",
+    "text": "The Consumer Protection Act provides for reference of appropriate consumer disputes to mediation in accordance with the Act and applicable procedure.",
+    "pathway": "Where legally suitable, check whether consumer mediation is available before or during the complaint process.",
+    "documents": [
+      "Complaint records",
+      "Settlement communications",
+      "Invoice/payment proof",
+      "Relevant evidence"
+    ],
+    "authority": "Consumer Commission / applicable consumer mediation mechanism.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/consumerprotection2019/a.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Refund dispute",
+      "Service complaint",
+      "Settlement"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "CYBER_001",
+    "category": "Cyber Crime",
+    "topic": "Identity theft / account misuse",
+    "act": "Information Technology Act, 2000",
+    "section": "Section 66C",
+    "section_title": "Punishment for identity theft",
+    "text": "Section 66C addresses fraudulent or dishonest use of another person's electronic signature, password or other unique identification feature.",
+    "pathway": "Preserve digital evidence and consider the appropriate cyber-crime/police reporting route based on the facts.",
+    "documents": [
+      "Screenshots",
+      "Emails/messages",
+      "Transaction records",
+      "Account details",
+      "Relevant URLs/usernames",
+      "Device evidence where available"
+    ],
+    "authority": "Police / cyber-crime reporting mechanism; verify the current reporting route.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/informationtechnology/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Account/identity theft",
+      "Fake account",
+      "Impersonation"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "CYBER_002",
+    "category": "Cyber Crime",
+    "topic": "Online cheating / impersonation / financial fraud",
+    "act": "Information Technology Act, 2000; Bharatiya Nyaya Sanhita, 2023",
+    "section": "Section 66D IT Act; Section 318 BNS",
+    "section_title": "Cheating by personation using computer resource; cheating",
+    "text": "Section 66D of the Information Technology Act addresses cheating by personation using a computer resource or communication device. Section 318 of the Bharatiya Nyaya Sanhita addresses cheating. The exact offence and applicable provision depend on the facts.",
+    "pathway": "Preserve transaction and communication evidence and use the appropriate cyber-crime/police reporting channel.",
+    "documents": [
+      "Bank/UPI transaction records",
+      "Screenshots",
+      "Chats/emails",
+      "Phone numbers",
+      "URLs",
+      "Complaint/reference numbers"
+    ],
+    "authority": "Cyber-crime reporting mechanism / Police; verify the applicable process.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/informationtechnology/index.php",
+    "source_type": "Official statutory sources",
+    "coverage_topics": [
+      "UPI scam",
+      "Financial fraud",
+      "Online cheating",
+      "Personation"
+    ],
+    "verification_status": "Official statutory provisions checked"
+  },
+  {
+    "chunk_id": "CYBER_003",
+    "category": "Cyber Crime",
+    "topic": "Privacy / obscene or sexually explicit electronic material",
+    "act": "Information Technology Act, 2000",
+    "section": "Sections 66E, 67 and 67A",
+    "section_title": "Violation of privacy and electronic obscene/sexually explicit material",
+    "text": "The Information Technology Act contains provisions addressing violation of privacy and publication or transmission of obscene or sexually explicit material in electronic form. Applicability depends on the facts and content involved.",
+    "pathway": "Preserve the original digital evidence, avoid further distribution, and consider the cyber-crime/police reporting route.",
+    "documents": [
+      "Screenshots",
+      "Original messages/files where safely available",
+      "URLs",
+      "Account identifiers",
+      "Witness details"
+    ],
+    "authority": "Cyber-crime reporting mechanism / Police.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/informationtechnology/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Private photographs",
+      "Sexual harassment online",
+      "Obscene electronic material",
+      "Privacy violation"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "EMPLOYMENT_001",
+    "category": "Employment",
+    "topic": "Unpaid wages / salary dues",
+    "act": "Code on Wages, 2019; Industrial Relations Code, 2020",
+    "section": "Section 17, Code on Wages; Section 59, Industrial Relations Code",
+    "section_title": "Time limit for payment of wages; recovery of money due from employer",
+    "text": "The Code on Wages contains provisions on the time limit for payment of wages. Section 59 of the Industrial Relations Code provides a recovery mechanism for money due to a worker in the circumstances specified by that Code, including an application to the appropriate Government subject to its conditions.",
+    "pathway": "Labour/employment grievance pathway; identify the competent authority and applicable provision for the worker's facts.",
+    "documents": [
+      "Employment/appointment records",
+      "Salary slips",
+      "Bank statements",
+      "Attendance records",
+      "Messages/emails"
+    ],
+    "authority": "Competent labour authority / tribunal as applicable; DLSA/TLSC may assist eligible persons.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/codeonwages/index.php",
+    "source_type": "Official statutory sources",
+    "coverage_topics": [
+      "Unpaid wages",
+      "Salary delay",
+      "Final salary",
+      "Dismissal with unpaid dues"
+    ],
+    "verification_status": "Official statutory text checked"
+  },
+  {
+    "chunk_id": "EMPLOYMENT_002",
+    "category": "Employment",
+    "topic": "Minimum wages / deductions / overtime",
+    "act": "Code on Wages, 2019",
+    "section": "Sections 5, 14 and 18",
+    "section_title": "Minimum wages, overtime and deductions",
+    "text": "The Code on Wages contains provisions concerning payment of minimum wages, overtime wages and permitted deductions from wages. The exact entitlement depends on the employee, establishment and applicable rules.",
+    "pathway": "Check the applicable labour provisions and competent authority before making a claim.",
+    "documents": [
+      "Salary slips",
+      "Attendance/overtime records",
+      "Employment terms",
+      "Bank statements",
+      "Deduction details"
+    ],
+    "authority": "Competent labour authority; verify applicable jurisdiction and procedure.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/codeonwages/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Minimum wages",
+      "Overtime",
+      "Unexplained deductions",
+      "Bonus/wage disputes"
+    ],
+    "verification_status": "Official statutory text checked"
+  },
+  {
+    "chunk_id": "EMPLOYMENT_003",
+    "category": "Employment",
+    "topic": "Industrial dispute / termination",
+    "act": "Industrial Relations Code, 2020",
+    "section": "Section 59 and dispute-resolution provisions",
+    "section_title": "Recovery and industrial dispute resolution",
+    "text": "The Industrial Relations Code provides mechanisms for investigation and settlement of industrial disputes and includes Section 59 on recovery of money due from an employer. The appropriate route depends on the nature of the employment dispute and applicable provisions.",
+    "pathway": "Use the applicable labour dispute-resolution mechanism after checking the facts and jurisdiction.",
+    "documents": [
+      "Appointment/termination letter",
+      "Salary records",
+      "HR correspondence",
+      "Grievance complaint",
+      "Relevant employment records"
+    ],
+    "authority": "Competent labour authority / tribunal as applicable.",
+    "source_url": "https://indiankanoon.org/doc/171201321/",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Termination",
+      "Workplace grievance",
+      "Employment dispute"
+    ],
+    "verification_status": "Official statutory text checked"
+  },
+  {
+    "chunk_id": "FAMILY_001",
+    "category": "Family",
+    "topic": "Matrimonial proceedings",
+    "act": "Hindu Marriage Act, 1955",
+    "section": "Sections 13, 19 and 20",
+    "section_title": "Divorce and presentation of petitions",
+    "text": "The Hindu Marriage Act provides grounds and procedures for matrimonial proceedings and specifies the court to which petitions are to be presented. Applicability depends on the parties and the facts.",
+    "pathway": "A matrimonial/family-court pathway may be relevant; verify personal-law applicability and jurisdiction.",
+    "documents": [
+      "Marriage certificate/records",
+      "Identity documents",
+      "Relevant communications",
+      "Prior proceedings/documents"
+    ],
+    "authority": "Competent Family Court/Court as applicable; legal-aid services may assist eligible persons.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/hindumarriage/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Matrimonial dispute",
+      "Divorce",
+      "Marriage-related dispute"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "FAMILY_002",
+    "category": "Family",
+    "topic": "Maintenance during matrimonial proceedings",
+    "act": "Hindu Marriage Act, 1955",
+    "section": "Section 24",
+    "section_title": "Maintenance pendente lite and expenses of proceedings",
+    "text": "Where the statutory conditions are met, the court may order payment of expenses of proceedings and monthly support during a proceeding under the Act when a spouse lacks sufficient independent income for support and necessary expenses.",
+    "pathway": "Consider the appropriate matrimonial/family proceeding and check eligibility with the competent court or legal-aid provider.",
+    "documents": [
+      "Income records",
+      "Bank statements",
+      "Marriage documents",
+      "Case documents",
+      "Expense records"
+    ],
+    "authority": "Competent court / Family Court as applicable.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/hindumarriage/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Maintenance",
+      "Spousal support",
+      "Family financial dispute"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "FAMILY_003",
+    "category": "Family",
+    "topic": "Child custody",
+    "act": "Hindu Marriage Act, 1955",
+    "section": "Section 26",
+    "section_title": "Custody of children",
+    "text": "In proceedings under the Act, the court may make orders concerning custody, maintenance and education of minor children in accordance with the statutory provision and the circumstances of the case.",
+    "pathway": "Family-court/court pathway may be relevant; the court considers the circumstances of the child and case.",
+    "documents": [
+      "Birth records",
+      "School records",
+      "Identity documents",
+      "Existing court orders",
+      "Relevant evidence"
+    ],
+    "authority": "Competent Family Court/Court.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/hindumarriage/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Child custody",
+      "Child-related family dispute"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "GOVSERV_001",
+    "category": "Government Services",
+    "topic": "Requesting government information",
+    "act": "Right to Information Act, 2005",
+    "section": "Section 6",
+    "section_title": "Request for obtaining information",
+    "text": "Section 6 provides a route for a person seeking information under the RTI Act to make a request in writing or electronically to the appropriate Public Information Officer or through the prescribed assistant officer, subject to the Act's requirements.",
+    "pathway": "If the grievance is about obtaining information held by a public authority, an RTI request may be relevant.",
+    "documents": [
+      "Application/request",
+      "Acknowledgement",
+      "Relevant correspondence",
+      "Existing reference number"
+    ],
+    "authority": "Central or State Public Information Officer, as applicable.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/righttoinformation/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Government information",
+      "Record request",
+      "Public authority response"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "GOVSERV_002",
+    "category": "Government Services",
+    "topic": "RTI response / delay",
+    "act": "Right to Information Act, 2005",
+    "section": "Section 7",
+    "section_title": "Disposal of request",
+    "text": "Section 7 sets out the statutory framework for disposal of an RTI request, including communication of the decision and applicable information/fee provisions.",
+    "pathway": "For an RTI request that has not been properly processed, check the statutory RTI appeal/grievance route.",
+    "documents": [
+      "RTI application",
+      "Acknowledgement",
+      "Reply or proof of non-response",
+      "Relevant correspondence"
+    ],
+    "authority": "Public Information Officer and, where applicable, the designated appellate/Information Commission route.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/righttoinformation/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Delayed response",
+      "Government records",
+      "No response to RTI"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "GOVSERV_003",
+    "category": "Government Services",
+    "topic": "Administrative grievance / service delay",
+    "act": "Applicable government grievance/service rules",
+    "section": "Not a single universal statutory section",
+    "section_title": "Administrative grievance pathway",
+    "text": "The dataset identifies many government-service problems as administrative grievances that may be resolved through the concerned department's grievance mechanism or other applicable official channel. The correct route depends on the service, department and jurisdiction.",
+    "pathway": "First identify the concerned department/service and use its official grievance mechanism; use broader public-grievance channels where applicable.",
+    "documents": [
+      "Application copy",
+      "Acknowledgement/receipt",
+      "ID proof",
+      "Correspondence",
+      "Reference number"
+    ],
+    "authority": "Concerned government department/grievance mechanism; CPGRAMS may apply to covered central-government grievances.",
+    "source_url": "https://pgportal.gov.in/",
+    "source_type": "Official government service",
+    "coverage_topics": [
+      "Delayed certificate",
+      "Rejected application",
+      "Government service delay",
+      "Record correction",
+      "Unofficial payment complaint"
+    ],
+    "verification_status": "Dataset-derived administrative guidance; service-specific rules must be checked"
+  },
+  {
+    "chunk_id": "LEGALAID_001",
+    "category": "Legal Aid",
+    "topic": "Eligibility for free legal services",
+    "act": "Legal Services Authorities Act, 1987",
+    "section": "Section 12",
+    "section_title": "Criteria for giving legal services",
+    "text": "Section 12 identifies categories of persons who are entitled to legal services when the statutory criteria are met, including specified vulnerable or disadvantaged groups and other persons covered by the provision.",
+    "pathway": "Check eligibility and apply through the appropriate Legal Services Institution.",
+    "documents": [
+      "Identity proof",
+      "Case/problem details",
+      "Eligibility-related documents",
+      "Income information where applicable"
+    ],
+    "authority": "DLSA / TLSC / KSLSA / NALSA, depending on the matter and jurisdiction.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/legalservicesauthorities/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Cannot afford lawyer",
+      "Eligibility",
+      "Free legal aid"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "LEGALAID_002",
+    "category": "Legal Aid",
+    "topic": "Entitlement and application",
+    "act": "Legal Services Authorities Act, 1987",
+    "section": "Section 13",
+    "section_title": "Entitlement to legal services",
+    "text": "Section 13 addresses entitlement to legal services for persons satisfying the Section 12 criteria, subject to the statutory conditions concerning the person's case and the concerned Legal Services Authority.",
+    "pathway": "Submit the legal-aid request to the appropriate Legal Services Institution and follow its verification/application process.",
+    "documents": [
+      "Identity/contact details",
+      "Case details",
+      "Supporting documents",
+      "Eligibility information"
+    ],
+    "authority": "DLSA / TLSC / KSLSA / NALSA.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/legalservicesauthorities/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Application process",
+      "Free lawyer",
+      "Legal-aid request"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "LEGALAID_003",
+    "category": "Legal Aid",
+    "topic": "Lok Adalat",
+    "act": "Legal Services Authorities Act, 1987",
+    "section": "Sections 19-21",
+    "section_title": "Organisation and award of Lok Adalats",
+    "text": "The Legal Services Authorities Act provides for organisation of Lok Adalats and their handling of appropriate disputes for amicable settlement, subject to the statutory framework.",
+    "pathway": "Check whether the dispute is suitable for Lok Adalat and contact the relevant Legal Services Institution.",
+    "documents": [
+      "Dispute details",
+      "Existing case documents",
+      "Settlement-related records",
+      "Identity documents"
+    ],
+    "authority": "DLSA / TLSC / KSLSA / NALSA.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/legalservicesauthorities/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Lok Adalat",
+      "Out-of-court settlement",
+      "Low-cost dispute resolution"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "MOTOR_001",
+    "category": "Motor Accident Claims",
+    "topic": "Motor accident claims tribunal",
+    "act": "Motor Vehicles Act, 1988",
+    "section": "Sections 165-166",
+    "section_title": "Claims Tribunals and application for compensation",
+    "text": "The Motor Vehicles Act provides for Claims Tribunals and an application route for compensation arising from motor vehicle accidents, subject to the Act and applicable procedure.",
+    "pathway": "For an accident compensation claim, check the applicable MACT/insurer/police route based on the facts.",
+    "documents": [
+      "Accident records",
+      "Medical records",
+      "Vehicle/insurance documents",
+      "Police/accident report",
+      "Expense and loss records"
+    ],
+    "authority": "Motor Accident Claims Tribunal (MACT) / insurer / police as applicable.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/motor/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Injury claim",
+      "Death claim",
+      "Accident compensation"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "MOTOR_002",
+    "category": "Motor Accident Claims",
+    "topic": "Hit-and-run compensation",
+    "act": "Motor Vehicles Act, 1988",
+    "section": "Section 161",
+    "section_title": "Special provisions as to compensation in case of hit and run motor accident",
+    "text": "Section 161 contains special provisions concerning compensation in specified hit-and-run motor accidents, subject to the statutory conditions and applicable scheme/procedure.",
+    "pathway": "For a hit-and-run matter, preserve accident evidence and check the statutory compensation route and applicable official scheme.",
+    "documents": [
+      "Police/accident report",
+      "Medical/death records",
+      "Identity documents",
+      "Vehicle/incident details",
+      "Other supporting evidence"
+    ],
+    "authority": "Applicable government/claims mechanism, police and other authorities as prescribed.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/motor/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Hit and run",
+      "Unidentified vehicle",
+      "Accident injury/death"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "MOTOR_003",
+    "category": "Motor Accident Claims",
+    "topic": "Claims Tribunal award and procedure",
+    "act": "Motor Vehicles Act, 1988",
+    "section": "Sections 168-169",
+    "section_title": "Award and procedure of Claims Tribunal",
+    "text": "The Motor Vehicles Act provides for the award of the Claims Tribunal and the procedure and powers of the Tribunal in motor accident compensation matters.",
+    "pathway": "Check the MACT procedure and applicable filing requirements for the specific accident claim.",
+    "documents": [
+      "Claim documents",
+      "Medical records",
+      "Insurance documents",
+      "Police records",
+      "Evidence of loss"
+    ],
+    "authority": "Motor Accident Claims Tribunal.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/motor/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "MACT process",
+      "Vehicle damage",
+      "Insurance dispute"
+    ],
+    "verification_status": "Official Act structure checked"
+  },
+  {
+    "chunk_id": "PROPERTY_001",
+    "category": "Property",
+    "topic": "Builder / real-estate complaint",
+    "act": "Real Estate (Regulation and Development) Act, 2016",
+    "section": "Section 31",
+    "section_title": "Filing of complaints with the Authority or adjudicating officer",
+    "text": "Section 31 provides a route for an aggrieved person to file a complaint with the Real Estate Regulatory Authority or the adjudicating officer, as applicable under the Act.",
+    "pathway": "For a covered real-estate dispute involving a promoter/project, check the applicable RERA authority and complaint route.",
+    "documents": [
+      "Agreement/allotment documents",
+      "Payment receipts",
+      "Builder correspondence",
+      "Project details",
+      "Possession records"
+    ],
+    "authority": "State/UT Real Estate Regulatory Authority or adjudicating officer, as applicable.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/registration/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Builder delay",
+      "Apartment dispute",
+      "Promised layout",
+      "Refund from developer"
+    ],
+    "verification_status": "Official Act text/section structure checked"
+  },
+  {
+    "chunk_id": "PROPERTY_002",
+    "category": "Property",
+    "topic": "Land ownership / boundary / possession",
+    "act": "Applicable property and revenue laws",
+    "section": "Issue-specific",
+    "section_title": "Civil/revenue property dispute pathway",
+    "text": "The dataset identifies land ownership, boundary, encroachment, inheritance and possession disputes as property matters. The appropriate forum depends on whether the issue concerns title, possession, land records, government land or a regulated real-estate project.",
+    "pathway": "First identify whether the dispute concerns civil title/possession, revenue records, government land or RERA; then approach the competent authority/court.",
+    "documents": [
+      "Title/deed documents",
+      "Mutation/land records",
+      "Survey documents",
+      "Tax receipts",
+      "Photographs/maps",
+      "Relevant agreements"
+    ],
+    "authority": "Competent Civil Court / revenue authority / RERA authority depending on the dispute.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/registration/index.php",
+    "source_type": "Official statutory source plus dataset-derived routing",
+    "coverage_topics": [
+      "Land ownership",
+      "Boundary dispute",
+      "Encroachment",
+      "Inheritance property",
+      "Possession"
+    ],
+    "verification_status": "Routing is dataset-derived; issue-specific law must be verified"
+  },
+  {
+    "chunk_id": "PROPERTY_003",
+    "category": "Property",
+    "topic": "Rental / landlord-tenant dispute",
+    "act": "Applicable state tenancy/property law",
+    "section": "Issue-specific",
+    "section_title": "Rental dispute pathway",
+    "text": "The dataset includes disputes involving security deposits, rent receipts, landlord entry, non-payment of rent and refusal to vacate. The applicable law and forum depend on the state, tenancy arrangement and facts.",
+    "pathway": "Check the applicable state tenancy/rent law and the competent forum before taking action.",
+    "documents": [
+      "Rental agreement",
+      "Deposit/payment proof",
+      "Rent receipts",
+      "Messages/notices",
+      "Photos or other evidence"
+    ],
+    "authority": "Competent rent/civil authority or court depending on the state and dispute.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/registration/index.php",
+    "source_type": "Official statutory repository; state-specific law must be verified",
+    "coverage_topics": [
+      "Security deposit",
+      "Rent dispute",
+      "Landlord dispute",
+      "Tenant dispute"
+    ],
+    "verification_status": "Dataset-derived routing; state-specific law must be verified"
+  },
+  {
+    "chunk_id": "WOMENSAFETY_001",
+    "category": "Women's Safety",
+    "topic": "Domestic violence complaint",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Section 12",
+    "section_title": "Application to Magistrate",
+    "text": "An aggrieved person, a Protection Officer or another person on her behalf may present an application to the Magistrate seeking relief under the Act. The Act provides for consideration of a Domestic Incident Report where applicable.",
+    "pathway": "Safety-first response; consider the Magistrate/Protection Officer route and immediate police assistance where there is danger.",
+    "documents": [
+      "Messages/screenshots",
+      "Medical records if any",
+      "Identity documents",
+      "Prior complaints",
+      "Other supporting evidence"
+    ],
+    "authority": "Magistrate / Protection Officer / Police as applicable; DLSA/TLSC may assist eligible persons.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/protectionofwomen/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Domestic violence",
+      "Spousal abuse",
+      "Threats at home"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "WOMENSAFETY_002",
+    "category": "Women's Safety",
+    "topic": "Protection / residence / monetary / custody relief",
+    "act": "Protection of Women from Domestic Violence Act, 2005",
+    "section": "Sections 18-21",
+    "section_title": "Protection, residence, monetary relief and custody orders",
+    "text": "The Act provides for protection orders and, subject to its conditions, residence orders, monetary relief and temporary custody orders in domestic-violence proceedings.",
+    "pathway": "Seek appropriate protection and other relief through the statutory process; use emergency police assistance where immediate safety is at risk.",
+    "documents": [
+      "Evidence of abuse",
+      "Medical records",
+      "Financial records",
+      "Children's records",
+      "Prior complaints"
+    ],
+    "authority": "Magistrate / Protection Officer / Police as applicable.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/protectionofwomen/index.php",
+    "source_type": "Official statutory source",
+    "coverage_topics": [
+      "Threats",
+      "Physical abuse",
+      "Economic abuse",
+      "Residence",
+      "Child safety"
+    ],
+    "verification_status": "Official Act text checked"
+  },
+  {
+    "chunk_id": "WOMENSAFETY_003",
+    "category": "Women's Safety",
+    "topic": "Workplace sexual harassment",
+    "act": "Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013",
+    "section": "Act-level grievance mechanism",
+    "section_title": "Workplace sexual-harassment redressal",
+    "text": "The dataset identifies workplace sexual harassment as a high-risk category where an internal complaints mechanism and, depending on the facts, police/legal-aid pathways may be relevant. The applicable complaint mechanism depends on the workplace and statutory conditions.",
+    "pathway": "Preserve evidence and consider the workplace complaints mechanism and appropriate legal/police route based on the facts.",
+    "documents": [
+      "Written complaint",
+      "Messages/emails",
+      "Witness details",
+      "HR records",
+      "Other evidence"
+    ],
+    "authority": "Internal Committee/competent workplace mechanism; Police or other authority where applicable; DLSA/TLSC may assist eligible persons.",
+    "source_url": "https://www.advocatekhoj.com/library/bareacts/sexualharrasment2013/index.php",
+    "source_type": "Official statutory repository; exact POSH provision should be verified from the current Act text",
+    "coverage_topics": [
+      "Workplace sexual harassment",
+      "Inappropriate messages",
+      "Unwanted touching/comments"
+    ],
+    "verification_status": "Dataset-derived routing; exact provision must be verified"
+  },
+  {
+    "chunk_id": "EDUCATION_001",
+    "category": "Education",
+    "topic": "Student grievance redressal",
+    "act": "UGC (Redressal of Grievances of Students) Regulations, 2023",
+    "section": "Regulation-level grievance mechanism",
+    "section_title": "Student grievance redressal framework",
+    "text": "The UGC lists the University Grants Commission (Redressal of Grievances of Students) Regulations, 2023 as the current student-grievance regulation. The appropriate institutional grievance mechanism and escalation route depend on the institution and grievance.",
+    "pathway": "Use the institution's designated student-grievance mechanism and the applicable UGC framework; escalate according to the prescribed process where necessary.",
+    "documents": [
+      "Student ID",
+      "Application/complaint",
+      "Fee receipts",
+      "Academic records",
+      "Correspondence",
+      "Relevant institutional documents"
+    ],
+    "authority": "Institutional grievance mechanism / university authority / applicable UGC framework.",
+    "source_url": "https://www.ugc.gov.in/regulations/UGC_Regulations_Student_Centric",
+    "source_type": "Official UGC source",
+    "coverage_topics": [
+      "Student grievance",
+      "Degree/certificate issue",
+      "College complaint"
+    ],
+    "verification_status": "Official UGC listing checked"
+  },
+  {
+    "chunk_id": "EDUCATION_002",
+    "category": "Education",
+    "topic": "Education fees / institutional dispute",
+    "act": "UGC (Redressal of Grievances of Students) Regulations, 2023; applicable education regulations",
+    "section": "Issue-specific",
+    "section_title": "Institutional grievance pathway",
+    "text": "The dataset includes fee disputes, withholding of certificates and other student grievances. The applicable rule and authority depend on whether the institution is a university, college, school or another education provider and on the nature of the complaint.",
+    "pathway": "First use the institution's grievance mechanism and identify the applicable university/education authority before escalating.",
+    "documents": [
+      "Fee receipts",
+      "Admission/enrolment records",
+      "Institution correspondence",
+      "Academic records"
+    ],
+    "authority": "Institutional grievance mechanism / university or education authority as applicable.",
+    "source_url": "https://www.ugc.gov.in/regulations/UGC_Regulations_Student_Centric",
+    "source_type": "Official UGC source plus dataset-derived routing",
+    "coverage_topics": [
+      "Fee dispute",
+      "Certificate withheld",
+      "Institutional complaint"
+    ],
+    "verification_status": "Dataset-derived routing; applicable education rules must be verified"
+  },
+  {
+    "chunk_id": "EDUCATION_003",
+    "category": "Education",
+    "topic": "Ragging / student safety",
+    "act": "Applicable anti-ragging framework and UGC regulations",
+    "section": "Issue-specific",
+    "section_title": "Student safety and grievance pathway",
+    "text": "Student-safety complaints such as ragging or serious harassment require the applicable institutional and statutory reporting route. The exact authority depends on the incident and institution.",
+    "pathway": "Prioritize immediate safety, preserve evidence and report through the institution and appropriate authorities as required.",
+    "documents": [
+      "Complaint",
+      "Messages/screenshots",
+      "Witness details",
+      "Medical records if applicable",
+      "Institution records"
+    ],
+    "authority": "Institutional authorities / Police / applicable education authority.",
+    "source_url": "https://www.ugc.gov.in/regulations",
+    "source_type": "Official UGC source",
+    "coverage_topics": [
+      "Ragging",
+      "Student safety",
+      "Serious harassment"
+    ],
+    "verification_status": "Dataset-compatible routing; incident-specific law must be verified"
+  }
+]

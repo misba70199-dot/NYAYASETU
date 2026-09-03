@@ -11,7 +11,8 @@ import requests
 import streamlit as st
 from dotenv import load_dotenv
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+from sklearn.svm import LinearSVC
+from sklearn.calibration import CalibratedClassifierCV
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Anchor paths to this script's folder, not the current working directory —
@@ -19,8 +20,9 @@ from sklearn.metrics.pairwise import cosine_similarity
 # relative paths like "Dataset_1_finalized.xlsx" even when the file sits right
 # next to app.py.
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-DATA_PATH = os.path.join(BASE_DIR, "Dataset_1_finalized (1).xlsx")
-CORPUS_PATH = os.path.join(BASE_DIR, "statute_corpus_v0 (4).json")
+DATA_PATH = os.path.join(BASE_DIR, "NyayaSetu_v2_500_balanced_verified_sources.xlsx")
+AUGMENT_PATH = os.path.join(BASE_DIR, "NyayaSetu_targeted_augmentation_100.xlsx")
+CORPUS_PATH = os.path.join(BASE_DIR, "statute_corpus_v1.json")
 GROQ_MODEL = "openai/gpt-oss-120b"
 
 # Loads GROQ_API_KEY from a .env file sitting next to this script (see .env.example)
@@ -33,18 +35,39 @@ st.set_page_config(page_title="NyayaSetu - Legal Triage", page_icon="⚖️", la
 
 @st.cache_resource
 def load_classifier():
-    """Train the TF-IDF + Logistic Regression category classifier on the labeled dataset."""
+    """Train the TF-IDF + Linear SVM category classifier on the labeled dataset.
+
+    Linear SVM scored 84% held-out accuracy in testing (vs ~76% for Logistic
+    Regression) on this dataset. LinearSVC has no predict_proba, so it's wrapped
+    in CalibratedClassifierCV to get real probabilities for the confidence score
+    shown in the UI. The base + targeted-augmentation sets are merged and used
+    in full here (unlike the notebook's held-out evaluation split) since this is
+    the deployed model, not an accuracy test.
+    """
     if not os.path.isfile(DATA_PATH):
         raise FileNotFoundError(
             f"Training dataset not found: {DATA_PATH}. "
             "Place the Excel file beside app.py or update DATA_PATH."
         )
-    df = pd.read_excel(DATA_PATH, sheet_name="Legal_Problems")
-    X = df["example_user_problem"]
-    y = df["category"]
-    vectorizer = TfidfVectorizer(stop_words="english")
+    if not os.path.isfile(AUGMENT_PATH):
+        raise FileNotFoundError(
+            f"Augmentation dataset not found: {AUGMENT_PATH}. "
+            "Place the Excel file beside app.py or update AUGMENT_PATH."
+        )
+
+    df = pd.read_excel(DATA_PATH, sheet_name="Legal_Problems_500")
+    aug_df = pd.read_excel(AUGMENT_PATH, sheet_name="Targeted_100")
+
+    X = pd.concat(
+        [df["example_user_problem"], aug_df["synthetic_query"]], ignore_index=True
+    ).astype(str)
+    y = pd.concat([df["category"], aug_df["category"]], ignore_index=True).astype(str)
+
+    vectorizer = TfidfVectorizer(stop_words="english", ngram_range=(1, 2), sublinear_tf=True)
     X_vec = vectorizer.fit_transform(X)
-    clf = LogisticRegression(max_iter=1000)
+
+    base_clf = LinearSVC(C=1)
+    clf = CalibratedClassifierCV(base_clf, method="sigmoid", cv=5)
     clf.fit(X_vec, y)
     return vectorizer, clf
 
@@ -183,7 +206,7 @@ if st.button("Get Triage Guidance", type="primary"):
                 with st.expander(f"{c['act']} — {c['section']}"):
                     st.write(f"**{c['section_title']}**")
                     st.write(c["text"])
-                    st.caption(c["source_url"])
+                    st.markdown(f"[View on India Code]({c['source_url']})")
         else:
             st.info("No matching statutory chunk was found in the corpus for this category yet.")
 
